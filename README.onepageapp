@@ -1,0 +1,3 @@
+# single-pg-app
+This is a single page flask app with the help querySelector in javascript.
+When we request for another page it doesnot load whole page it just changes the content, title and link of the page.
